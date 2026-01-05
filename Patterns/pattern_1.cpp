@@ -1,5 +1,12 @@
-#include<iostream>
+// Given a positive number N, design an algorithm to print the pattern as shown below:
+// for N = 4
+// *
+// **
+// ***
+// ****
 
+
+#include<iostream>
 using namespace std;
 
 int main() {
